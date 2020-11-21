@@ -24,4 +24,4 @@ var mySchema = mongoose.Schema(
   }
 );
 
-module.exports = mongoose.model("Casinos", mySchema);
+module.exports = mongoose.model("casinos", mySchema);
